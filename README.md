@@ -27,3 +27,8 @@ Define the GitOps term!
 - [ ] Add kubernetes cluster into argocd (? should be added by default the one where argocd is installed).
 - [ ] Connect argocd to the git repository
 - [ ] Make tests of deployments
+
+## Tools
+1. (Kubefirst - one to go tool for fast setup everything needed for GitOps)[https://kubefirst.io]
+2. (Kratix - contract-based tool to establish a connection between application and infrastructure teams)[https://www.kratix.io]
+3. (Backstage - open platform for building developer portals)[https://github.com/backstage/backstage]
